@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # printf
 
-A simple printf function built by Suara Ayomide and Oni Remi for Alx software Engineering School.
+A simple printf function built by Chidozie Ogwalu and Israel Adenuga for Alx software Engineering School.
 # Welcome
 
 Rebuild of the standard printf function in C. Our project required a function capable of printing with the %d, %c, %s, and %% specifiers to standard output. printf returns the number of characters printed (excluding the null byte at the end of strings). We were not asked to handle flag characters, field width, precision, or length.
@@ -175,10 +174,7 @@ Function That Returns The Amount Of Indetifiers.
 
 # Authors
 
-Suara Ayomide - @aysuarex@gmail.com
-Oni Remi - @onijremi@gmail.com
+Chidozie Ogwalu -@gentomamacine
+Israel Adenuga -@adexino0606
  
  # End
-=======
-
->>>>>>> origin/printf
