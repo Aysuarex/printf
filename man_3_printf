@@ -1,5 +1,5 @@
 .\" Manpage for _printf.
-.TH _printf 3 "15 April 2022" "1.0" "Program Manual for _printf"
+.TH _printf 3 "18 April 2022" "1.0" "Program Manual for _printf"
 .SH NAME
  _printf - formatted output conversion and print data.
 .SH SYNOPSIS
@@ -98,7 +98,7 @@ The character \fI%\fR is followed by zero the following flags:
 .R A space in blank should be left before a positive number followed by a signed conversion.
 .SH NOTES.R A space in blank should be left before a positive number followed by a signed conversion.
 .SH NOTES
-.R The \fB_printf()\fR is a project collaboration between \fBIsrael Adenuga\fR and \fBChidozie Ogwalu\fR, actual students of Software Engineering at \fBHolberton School\fR.
+.R The \fB_printf()\fR is a project collaboration between \fBSuara Ayomide\fR and \fBOni Remi\fR, students of the ALX Software Engineering Programme at \fBHolberton School\fR.
 .SH BUGS
 .R In process
 .SH EXAMPLE
@@ -124,4 +124,4 @@ int main(void)
 .SH SEE ALSO
 .R printf(3)
 .SH AUTHORS
-Written by \fBIsrael Adenuga\fR and \fBChidozie Ogwalu\fR.
+Written by \fBSuara Ayomide\fR and \fBOni Remi\fR.
